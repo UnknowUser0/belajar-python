@@ -1,0 +1,1 @@
+print("Belajar uler minggu ke 1")
